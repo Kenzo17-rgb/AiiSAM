@@ -1,1 +1,11 @@
+{
+  "name": "aiisam",
+  "version": "1.0.0",
+  "description": "AI-powered chatbot for company processes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
 
